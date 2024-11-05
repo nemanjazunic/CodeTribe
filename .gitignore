@@ -1,0 +1,14 @@
+# Allure reports
+allure-results
+
+# VSCode
+.vscode/*
+
+# package-lock file
+package-lock.json
+
+# playwright perorts folder
+playwright-report
+
+# node modules
+node_modules
